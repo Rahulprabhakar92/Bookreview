@@ -1,4 +1,4 @@
-import { Book } from "@/types/types";
+import { Book } from "../types/types";
 export default function BookCard({ book }: { book: Book }) {
     return (
       <div className="bg-gray-800 rounded-lg shadow-lg p-4 flex flex-col justify-center transition duration-300 ease-in-out hover:scale-105">

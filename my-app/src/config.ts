@@ -1,1 +1,1 @@
-export const HTTP_BACKEND="http://localhost:3002/"
+export const HTTP_BACKEND="https://bookreview-fs6n.onrender.com/"
