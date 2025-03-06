@@ -41,7 +41,7 @@ const EditBook = () => {
       setBooks(updatedBooks);
   
       navigate(`/book/${id}`);
-      window.location.reload();
+
 
     } catch (error) {
       console.error("Error updating book:", error);
